@@ -1,0 +1,19 @@
+#ejemploPracticas h3, h4 {
+    text-align: center;
+}
+
+#ejemploPracticas .contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#ejemploPracticas article {
+    margin: 15px;
+}
+
+#ejemploPracticas img  {
+    width: 100%;
+    max-width: 280px;
+
+}
